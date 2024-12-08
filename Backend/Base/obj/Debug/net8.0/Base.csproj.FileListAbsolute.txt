@@ -1,0 +1,12 @@
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\bin\Debug\net8.0\Base.deps.json
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\bin\Debug\net8.0\Base.dll
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\bin\Debug\net8.0\Base.pdb
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.csproj.AssemblyReference.cache
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.AssemblyInfoInputs.cache
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.AssemblyInfo.cs
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.csproj.CoreCompileInputs.cache
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.dll
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\refint\Base.dll
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\Base.pdb
+C:\Users\h9k8b\source\repos\EntityFrame\Backend\Base\obj\Debug\net8.0\ref\Base.dll
