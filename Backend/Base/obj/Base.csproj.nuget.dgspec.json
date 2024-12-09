@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\h9k8b\\source\\repos\\EntityFrame\\Backend\\Base\\Base.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\Base\\Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\h9k8b\\source\\repos\\EntityFrame\\Backend\\Base\\Base.csproj": {
+    "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\Base\\Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\h9k8b\\source\\repos\\EntityFrame\\Backend\\Base\\Base.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\Base\\Base.csproj",
         "projectName": "Base",
-        "projectPath": "C:\\Users\\h9k8b\\source\\repos\\EntityFrame\\Backend\\Base\\Base.csproj",
-        "packagesPath": "C:\\Users\\h9k8b\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\h9k8b\\source\\repos\\EntityFrame\\Backend\\Base\\obj\\",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\Base\\Base.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\h9k8b\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -30,7 +28,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -48,7 +45,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -77,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

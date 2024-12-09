@@ -20,17 +20,12 @@ namespace UIForm.Formlar.PersonelFormlar
 
         private void panelControl1_Paint(object sender, PaintEventArgs e)
         {
-            // Corrected the code to set the background color of the panel
-            var panel = sender as PanelControl;
-            if (panel != null)
-            {
-                panel.BackColor = Color.Red;
-            }
+            panelControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
         }
 
-        private void labelControl8_Click(object sender, EventArgs e)
+        private void buttonKapat_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }
