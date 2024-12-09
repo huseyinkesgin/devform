@@ -4,6 +4,9 @@
     <Compile Update="Anaform.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Formlar\MusteriFormlar\MusteriFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Formlar\PersonelFormlar\PersonelForm.cs">
       <SubType>Form</SubType>
     </Compile>

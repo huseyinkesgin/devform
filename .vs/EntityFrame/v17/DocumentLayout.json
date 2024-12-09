@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\backend\\ui.layer\\uiform\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|solutionrelative:backend\\ui.layer\\uiform\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|c:\\users\\hp\\source\\repos\\huseyinkesgin\\devform\\backend\\ui.layer\\uiform\\formlar\\musteriformlar\\musteriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|solutionrelative:backend\\ui.layer\\uiform\\formlar\\musteriformlar\\musteriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|c:\\users\\hp\\source\\repos\\huseyinkesgin\\devform\\backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|solutionrelative:backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|c:\\users\\hp\\source\\repos\\huseyinkesgin\\devform\\backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|solutionrelative:backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|c:\\users\\hp\\source\\repos\\huseyinkesgin\\devform\\backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F57A58A-378A-4B9C-AD05-61CF5F4D4DE4}|Backend\\UI.Layer\\UIForm\\UIForm.csproj|solutionrelative:backend\\ui.layer\\uiform\\formlar\\personelformlar\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MusteriFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\MusteriFormlar\\MusteriFormu.cs",
+              "RelativeDocumentMoniker": "Backend\\UI.Layer\\UIForm\\Formlar\\MusteriFormlar\\MusteriFormu.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\MusteriFormlar\\MusteriFormu.cs [Design]",
+              "RelativeToolTip": "Backend\\UI.Layer\\UIForm\\Formlar\\MusteriFormlar\\MusteriFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:42:38.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PersonelForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs",
               "RelativeDocumentMoniker": "Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs [Design]",
               "RelativeToolTip": "Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T10:08:20.032Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonelForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.Designer.cs",
-              "RelativeDocumentMoniker": "Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.Designer.cs",
-              "RelativeToolTip": "Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T10:05:15.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonelForm.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs",
-              "RelativeDocumentMoniker": "Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs",
-              "RelativeToolTip": "Backend\\UI.Layer\\UIForm\\Formlar\\PersonelFormlar\\PersonelForm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:20:27.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Anaform.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Anaform.cs",
-              "RelativeDocumentMoniker": "Backend\\UI.Layer\\UIForm\\Anaform.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\huseyinkesgin\\devform\\Backend\\UI.Layer\\UIForm\\Anaform.cs [Design]",
-              "RelativeToolTip": "Backend\\UI.Layer\\UIForm\\Anaform.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:03:20.084Z",
+              "WhenOpened": "2024-12-09T12:39:11.403Z",
               "EditorCaption": " [Design]"
             }
           ]
